@@ -261,8 +261,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-bold text-white text-lg mb-1">Email Us</h3>
-                  <p className="text-gray-300 mb-1">contact@autosite.ai</p>
-                  <p className="text-gray-400 text-sm">We respond within 2 hours</p>
+                  <p className="text-gray-300 mb-1">ritik.autosite@gmail.com</p>
+                  <p className="text-gray-400 text-sm">We respond within 1 hours</p>
                 </div>
               </CardContent>
             </Card>
@@ -274,8 +274,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-bold text-white text-lg mb-1">Call Us</h3>
-                  <p className="text-gray-300 mb-1">+1 (555) 123-4567</p>
-                  <p className="text-gray-400 text-sm">Mon–Fri, 9AM–6PM EST</p>
+                  <p className="text-gray-300 mb-1">+91 6393828666</p>
+                  <p className="text-gray-400 text-sm">Mon–Sat, 9AM–10PM IST</p>
                 </div>
               </CardContent>
             </Card>
