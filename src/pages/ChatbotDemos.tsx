@@ -74,7 +74,7 @@ const [playingAudio, setPlayingAudio] = useState<string | null>(null);
           <div className="flex items-center justify-between">
             <Link to="/" className="flex items-center space-x-3">
               <img 
-                src="autosite_logo.webp" 
+                src="https://files.catbox.moe/vvzieq.webp" 
                 alt="Autosite Logo" 
                 className="w-10 h-10 brightness-0 invert filter" 
               />
