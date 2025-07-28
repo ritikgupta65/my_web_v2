@@ -12,10 +12,10 @@ const [playingAudio, setPlayingAudio] = useState<string | null>(null);
       title: "Fashion Stylist Bot",
       description: "Personal style advisor that understands fashion trends, provides styling tips, suggests outfit combinations, and helps customers make informed fashion choices.",
       features: [
-        "Smart Outfit suggestions through Cards",
+        "Smart Personalise Outfit suggestions through Cards",
        "Order tracking & updates",
        "Live Call support",
-      "Lead generation and deep Sales Analysis",
+      "Lead generation and deep customer's problem Analysis",
       "Image upload suggestions",
        {label: "demo link", url: "https://files.catbox.moe/v9s3oo.mp4"}
       ],
@@ -28,9 +28,9 @@ const [playingAudio, setPlayingAudio] = useState<string | null>(null);
       title: "Skincare Beauty Chatbot",
       description: "AI-powered beauty assistant for D2C skincare and cosmetics brands. Handles personalized product recommendations, skin type quizzes, routine building, and provides instant beauty advice to customers 24/7,",
       features: [
-        "Personalized Product Recommendations",
-        "Skin Quiz & Routine Builde",
-        "24/7 Query Handling through Chat and voice",
+        "Personalized Product Recommendations with image upload",
+        "Skin Quiz & Routine Build",
+        "24/7 Query Handling through Chat and voice and order tracking",
         "Analytics & Insights Dashboard",
         {label: "demo link", url: "https://files.catbox.moe/we5bvg.mp4"}
       ],
@@ -48,7 +48,7 @@ const [playingAudio, setPlayingAudio] = useState<string | null>(null);
         "Return & refund processing",
         "Live Call support",
         "Personalized shopping experience" ,
-        "Lead generation and deep Sales Analysis" ,
+        "Lead generation and deep customer's problem Analysis" ,
         {label: "demo link", url: "https://files.catbox.moe/c0c287.mp4"}
       ],
       videoUrl: "https://files.catbox.moe/c0c287.mp4",

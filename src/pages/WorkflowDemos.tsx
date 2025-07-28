@@ -32,7 +32,7 @@ const WorkflowDemos = () => {
       description: "Send personalized email campaigns to high quality leads on mass level , track engagement metrics , real-time email dashboard updation ",
       features: [
         "Send Persioalise Email on mass level with follow-up",
-        "Track engagement metrics(open , reply , conversion rates)",
+        "Track engagement metrics(open , reply , bounce , conversion rates)",
         "Real -time email dashboard updation",
         "Extact high quality leads",
         "Autoreply to customer queries on email",
