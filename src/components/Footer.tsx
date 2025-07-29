@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div>
             <div className="flex items-center space-x-3 mb-6">
-              <img src="autosite_logo.webp" alt="Autosite Logo" className="w-8 h-8" />
+              <img src="https://files.catbox.moe/vvzieq.webp" alt="Autosite Logo" className="w-8 h-8" />
               <span className="text-xl font-bold">Autosite</span>
             </div>
             <p className="text-slate-400 mb-6 leading-relaxed">

@@ -266,7 +266,6 @@ const Contact = () => {
                 </div>
               </CardContent>
             </Card>
-
             <Card className="border-gray-600 bg-gray-700/80 hover:bg-gray-700/90 transition-all duration-300 group">
               <CardContent className="p-6 flex items-start">
                 <div className="w-14 h-14 bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl flex items-center justify-center mr-4">
